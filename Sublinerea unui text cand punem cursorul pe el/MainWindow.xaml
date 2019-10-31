@@ -1,0 +1,13 @@
+﻿<Window x:Class="Sublinerea_unui_text_cand_punem_cursorul_pe_el.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sublinerea_unui_text_cand_punem_cursorul_pe_el"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="TextSubliniat" HorizontalAlignment="Left" Height="180" Margin="111,82,0,0" TextWrapping="Wrap" Text="Acest text se sublineaza cand punem cursorul pe el" VerticalAlignment="Top" Width="570" SelectionOpacity="0.8" FontSize="36" FontFamily="Lucida Handwriting" FontWeight="Bold" MouseEnter="TextSubliniat_MouseEnter" MouseLeave="TextSubliniat_MouseLeave"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.csprojAssemblyReference.cache
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\App.g.cs
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el_MarkupCompile.cache
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el_MarkupCompile.lref
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\bin\Debug\Sublinerea unui text cand punem cursorul pe el.exe.config
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\bin\Debug\Sublinerea unui text cand punem cursorul pe el.exe
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\bin\Debug\Sublinerea unui text cand punem cursorul pe el.pdb
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\MainWindow.baml
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.g.resources
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea_unui_text_cand_punem_cursorul_pe_el.Properties.Resources.resources
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.csproj.GenerateResource.cache
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.exe
+C:\Users\alexa\Desktop\C# Testing\Sublinerea unui text cand punem cursorul pe el\obj\Debug\Sublinerea unui text cand punem cursorul pe el.pdb

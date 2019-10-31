@@ -1,0 +1,9 @@
+﻿<Application x:Class="Sublinerea_unui_text_cand_punem_cursorul_pe_el.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Sublinerea_unui_text_cand_punem_cursorul_pe_el"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
